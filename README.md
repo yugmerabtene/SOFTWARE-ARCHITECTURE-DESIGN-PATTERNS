@@ -99,5 +99,24 @@ Les design patterns sont des solutions éprouvées à des problèmes récurrents
    - Elle concerne les grands aspects du système, tels que la répartition des responsabilités entre les différents modules, la communication entre les composants, la gestion des flux de données, etc.
    - L'architecture applicative établit un cadre pour le développement de l'ensemble du système et guide les décisions concernant la sélection des technologies, la mise en place des interactions entre les composants, etc.
    - Exemples d'architectures applicatives : Architecture en couches (par exemple, MVC, MVP, MVVM), Architecture orientée services (SOA), Architecture microservices, Architecture hexagonale (Ports et Adaptateurs), etc.
+   - Bien sûr, voici une liste récapitulative des architectures applicatives avancées :
+
+1. Architecture Microservices
+2. Architecture Serverless
+3. Architecture Orientée Événements
+4. Architecture Hexagonale (Ports et Adaptateurs)
+5. Architecture CQRS (Command Query Responsibility Segregation)
+6. Architecture Réactive
+7. Architecture basée sur les micro-frontends
+8. Architecture de Domain-Driven Design (DDD)
+9. Architecture Progressive Web App (PWA)
+10. Architecture sans état (Stateless Architecture)
+11. Architecture Event-Sourcing
+12. Architecture CQRS avec Event-Sourcing
+13. Architecture Saga
+14. Architecture Big Data
+15. Architecture de Blockchain
+16. Architecture Quantum Computing
+
 
 
