@@ -85,3 +85,19 @@ Les design patterns sont des solutions éprouvées à des problèmes récurrents
 7. **Pure Fabrication (Fabrication Pure)** :
    - La fabrication pure consiste à créer des classes qui ne correspondent pas exactement à des concepts du monde réel, mais qui sont introduites pour améliorer la structure et l'organisation du code.
    - Ce principe encourage la création de classes supplémentaires pour améliorer la conception globale du système.
+  
+   - Les design patterns et l'architecture applicative sont deux concepts distincts mais complémentaires dans le domaine du développement logiciel. Voici leurs différences principales :
+
+1. **Design Patterns (Motifs de Conception)** :
+   - Les design patterns sont des solutions générales et réutilisables à des problèmes de conception logicielle courants.
+   - Ils se concentrent sur des aspects spécifiques de la conception, tels que la structure des classes, la gestion des dépendances, la communication entre les composants, etc.
+   - Les design patterns sont souvent de plus petite échelle et peuvent être appliqués à des éléments individuels du code, tels que des classes ou des méthodes.
+   - Exemples de design patterns : Singleton, Factory, Observer, Strategy, etc.
+
+2. **Architecture Applicative** :
+   - L'architecture applicative est une approche globale de la conception d'un système logiciel qui définit la structure et l'organisation générales du système.
+   - Elle concerne les grands aspects du système, tels que la répartition des responsabilités entre les différents modules, la communication entre les composants, la gestion des flux de données, etc.
+   - L'architecture applicative établit un cadre pour le développement de l'ensemble du système et guide les décisions concernant la sélection des technologies, la mise en place des interactions entre les composants, etc.
+   - Exemples d'architectures applicatives : Architecture en couches (par exemple, MVC, MVP, MVVM), Architecture orientée services (SOA), Architecture microservices, Architecture hexagonale (Ports et Adaptateurs), etc.
+
+
