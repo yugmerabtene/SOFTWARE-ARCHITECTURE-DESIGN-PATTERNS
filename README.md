@@ -53,5 +53,35 @@ Les design patterns sont des solutions éprouvées à des problèmes récurrents
 10. **Couche de Reporting et d'Analyse (Reporting and Analytics Layer)** :
     - Génère des rapports, des tableaux de bord et des analyses à partir des données collectées par l'application.
     - Utilise des outils de Business Intelligence (BI), des bases de données analytiques, etc.
+    - 
 
 
+    GRASP (General Responsibility Assignment Software Patterns) est un ensemble de principes de conception qui aide les développeurs à attribuer efficacement les responsabilités aux différentes parties d'une application logicielle. Voici quelques-uns des principes GRASP :
+
+1. **Creator (Créateur)** :
+   - Le créateur est responsable de la création d'instances d'objets.
+   - Ce principe stipule que lorsqu'un objet A est responsable de la création d'un objet B, A est le créateur de B.
+
+2. **Controller (Contrôleur)** :
+   - Le contrôleur est responsable de la gestion du flux de contrôle et de la coordination des interactions entre les objets.
+   - Ce principe stipule que les classes qui contrôlent le flux principal de l'application et coordonnent les interactions entre les objets devraient être des contrôleurs.
+
+3. **Low Coupling (Faible Couplage)** :
+   - Le faible couplage indique que les classes doivent être aussi peu dépendantes les unes des autres que possible.
+   - Ce principe favorise la conception modulaire en minimisant les interconnexions entre les classes.
+
+4. **High Cohesion (Haute Cohésion)** :
+   - La haute cohésion signifie que les éléments d'une classe doivent être fortement liés et se concentrer sur une tâche spécifique.
+   - Ce principe favorise la création de classes avec des responsabilités claires et distinctes.
+
+5. **Polymorphism (Polymorphisme)** :
+   - Le polymorphisme permet à des objets de différentes classes d'être traités de manière uniforme s'ils partagent une interface commune.
+   - Ce principe encourage l'utilisation de l'héritage et du polymorphisme pour favoriser la réutilisabilité et l'extensibilité du code.
+
+6. **Indirection (Indirection)** :
+   - L'indirection encourage l'utilisation de classes intermédiaires ou de façades pour déléguer des tâches et minimiser les dépendances directes entre les classes.
+   - Ce principe aide à réduire le couplage en introduisant une couche d'abstraction entre les composants.
+
+7. **Pure Fabrication (Fabrication Pure)** :
+   - La fabrication pure consiste à créer des classes qui ne correspondent pas exactement à des concepts du monde réel, mais qui sont introduites pour améliorer la structure et l'organisation du code.
+   - Ce principe encourage la création de classes supplémentaires pour améliorer la conception globale du système.
