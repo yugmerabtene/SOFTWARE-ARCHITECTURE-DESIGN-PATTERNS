@@ -1,5 +1,4 @@
 # SOFTWARE-ARCHITECTURE-DESIGN-PATTERNS  
-Les design patterns sont des solutions éprouvées à des problèmes récurrents rencontrés lors de la conception de logiciels. Les trois design patterns que vous mentionnez sont le DTO (Data Transfer Object), le DAO (Data Access Object) et le DAL (Data Access Layer). Voici une brève explication de chacun :
 
 1. **DTO (Data Transfer Object)** :
    - Le pattern DTO est utilisé pour transférer des données entre des sous-systèmes d'une application. Il encapsule les données avec des méthodes d'accès, mais ne contient pas de logique métier. Les DTO sont souvent utilisés pour transférer des données entre le niveau de présentation (UI) et le niveau de persistance (base de données).
