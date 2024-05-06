@@ -53,7 +53,7 @@ Les design patterns sont des solutions éprouvées à des problèmes récurrents
 10. **Couche de Reporting et d'Analyse (Reporting and Analytics Layer)** :
     - Génère des rapports, des tableaux de bord et des analyses à partir des données collectées par l'application.
     - Utilise des outils de Business Intelligence (BI), des bases de données analytiques, etc.
-    - 
+
 
 
     GRASP (General Responsibility Assignment Software Patterns) est un ensemble de principes de conception qui aide les développeurs à attribuer efficacement les responsabilités aux différentes parties d'une application logicielle. Voici quelques-uns des principes GRASP :
@@ -99,7 +99,7 @@ Les design patterns sont des solutions éprouvées à des problèmes récurrents
    - Elle concerne les grands aspects du système, tels que la répartition des responsabilités entre les différents modules, la communication entre les composants, la gestion des flux de données, etc.
    - L'architecture applicative établit un cadre pour le développement de l'ensemble du système et guide les décisions concernant la sélection des technologies, la mise en place des interactions entre les composants, etc.
    - Exemples d'architectures applicatives : Architecture en couches (par exemple, MVC, MVP, MVVM), Architecture orientée services (SOA), Architecture microservices, Architecture hexagonale (Ports et Adaptateurs), etc.
-   - Bien sûr, voici une liste récapitulative des architectures applicatives avancées :
+   ---
 
 1. Architecture Microservices
 2. Architecture Serverless
